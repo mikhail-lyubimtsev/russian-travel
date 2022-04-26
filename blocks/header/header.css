@@ -2,7 +2,7 @@
     max-width: 1184px;
     display: flex;
     margin: 0 auto;
-    padding-left: 48px;
+    padding: 28px 48px;
     justify-content: space-between;
     border: solid 2px red;
 }
