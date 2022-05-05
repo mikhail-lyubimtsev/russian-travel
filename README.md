@@ -4,4 +4,5 @@
 * [Страница](https://mikhail-lyubimtsev.github.io/russian-travel/index.html)
 * [Репозиторий Github](https://github.com/mikhail-lyubimtsev/russian-travel)
 
-Цель проектной работы: изучение адаптивной верстки и приобретение навыков работы с макетом в Figma.
+Цель проектной работы: изучение адаптивной верстки Html и CSS и приобретение навыков работы с макетом в Figma.
+Использованы медиазапросы, технологии flex и grid.
