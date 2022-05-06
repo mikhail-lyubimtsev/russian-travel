@@ -12,5 +12,8 @@
         font-size: 18px;
         line-height: 1.11;
     }
-    
+}
+
+.header__lang-link:hover {
+    opacity: 0.8;
 }
