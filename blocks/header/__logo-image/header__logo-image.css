@@ -1,15 +1,15 @@
-.header__logo {
+.header__logo-image {
     width: 176px;
     height: 52px;
 }
 
 @media screen and (max-width: 767px) {
-    .header__logo {
+    .header__logo-image {
         width: 142px;
-        height: 42;
+        height: 42px;
     }
 }
 
-.header__logo:hover {
+.header__logo-image:hover {
     opacity: 0.8;
 }
